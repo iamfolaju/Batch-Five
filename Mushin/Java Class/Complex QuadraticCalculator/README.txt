@@ -1,5 +1,13 @@
 QUADRATIC CALCULATOR
 
+*CREDIT
+This program was created by ADEMOLA ISLAMIYYAT ADEJUMOKE a participant of Code Lagos Batch 5 at Mushin Centre.
+
+*CONTACT
+Call/Whatsapp: 09024018579
+E-Mail: ademolaislamiyyat@gmail.com
+Facebook: Ademola Islamiyyat Adejumoke
+
 *ABOUT
 The Quadratic Calculator helps in solving all kind of Quadratic equation problem and also solving equation with Complex Roots.  
 
@@ -23,10 +31,3 @@ The Quadratic Calculator can be used or implemented with any Java accesible envi
 All the limitations above will be implemented with the below solution
 +Turning the program to a Mobile App
 
-*CREDIT
-This program was created by ADEMOLA ISLAMIYYAT ADEJUMOKE a participant of Code Lagos Batch 5 at Mushin Centre.
-
-*CONTACT
-Call/Whatsapp: 09024018579
-E-Mail: ademolaislamiyyat@gmail.com
-Facebook: Ademola Islamiyyat Adejumoke
